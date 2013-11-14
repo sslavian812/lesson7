@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RssDbAggregator</string>
+    <string name="menu_insert">insert</string>
+    <string name="menu_delete">delete</string>
+    <string name="menu_drop">drop</string>
+    <string name="sure">Are you sure??</string>
+    <string name="menu_showbrowser">show in browser</string>
+    <string name="menu_edit">edit</string>
+
+
+</resources>

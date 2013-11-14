@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content">
+
+    <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textTitle" android:layout_gravity="center_horizontal" android:layout_weight="82"
+            android:hint="title" android:textColor="#ffbf1b" android:textSize="20dp"/>
+    <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textDate" android:layout_weight="18" android:hint="date" android:textSize="15dp"/>
+</LinearLayout>
